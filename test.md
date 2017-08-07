@@ -1,5 +1,5 @@
 ---
-Keywords: aho, boke
+keywords: aho, boke
 ---
 
 #title 
